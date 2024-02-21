@@ -1,4 +1,4 @@
-TG_TOKEN = "7006292246:AAF7iWI7ayG60nhvXWS3ZQwwpFyUC5Ymu2I"
+TG_TOKEN = ""
 myId = 1594231051
 historyGroupId = -4143701694
 admin_username = "@saikonohack"
